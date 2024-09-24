@@ -1,0 +1,16 @@
+{
+  "name": "npm_hero",
+  "version": "1.0.0",
+  "description": "hero",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anusak",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^4.0.0",
+    "suppress-experimental-warnings": "^2.0.0"
+  }
+}
